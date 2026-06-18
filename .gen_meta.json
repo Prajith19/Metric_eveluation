@@ -1,0 +1,11 @@
+{
+  "strength": 5,
+  "technique": "SA",
+  "metric": "EPI",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "n_functions": 98,
+  "loc": 2500,
+  "branch_name": "SA_Execution-Path-Integrity_CC_2.6"
+}
