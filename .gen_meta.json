@@ -1,0 +1,12 @@
+{
+  "strength": 4,
+  "technique": "SX",
+  "metric": "ESI",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 100,
+  "loc": 2572,
+  "branch_name": "SX_Exploit-Surface-Identification_CC_2.6"
+}
