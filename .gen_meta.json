@@ -1,0 +1,12 @@
+{
+  "strength": 4,
+  "technique": "SX",
+  "metric": "BPC",
+  "branch_type": "TCC",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 104,
+  "loc": 2548,
+  "branch_name": "SX_Best-Practice-Compliance_TCC_2.6"
+}
