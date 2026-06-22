@@ -1,0 +1,12 @@
+{
+  "strength": 4,
+  "technique": "SX",
+  "metric": "SCS",
+  "branch_type": "CC",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 100,
+  "loc": 2572,
+  "branch_name": "SX_Supply-Chain-Security_CC_2.6"
+}
