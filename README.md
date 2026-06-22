@@ -1,3 +1,3 @@
-# SA_Decision-Outcome-Verification_Bug_2.6
+# SX_Regulatory-Alignment_Bug_2.6
 
-Structural Analysis / Decision Outcome Verification
+Security White-box Testing / Regulatory Alignment
