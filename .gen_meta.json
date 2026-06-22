@@ -1,0 +1,12 @@
+{
+  "strength": 4,
+  "technique": "SX",
+  "metric": "SCS",
+  "branch_type": "BugFX",
+  "version": "2.6",
+  "language": "python",
+  "runtime": "3.12",
+  "n_functions": 104,
+  "loc": 2548,
+  "branch_name": "SX_Supply-Chain-Security_BugFX_2.6"
+}
